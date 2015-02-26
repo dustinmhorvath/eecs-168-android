@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Triangles
+Bundle-SymbolicName: edu.ku.eecs168.triangles.Triangles
+Bundle-Version: 1.0.0.qualifier
+Export-Package: edu,
+ edu.ku,
+ edu.ku.eecs168,
+ edu.ku.eecs168.triangles,
+ edu.ku.swingemu

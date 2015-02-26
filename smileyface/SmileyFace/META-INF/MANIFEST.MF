@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SmileyFace
+Bundle-SymbolicName: SmileyFace
+Bundle-Version: 1.0.0.qualifier
+Export-Package: edu.ku.eecs168.SmileyFace,
+ edu.ku.swingemu
